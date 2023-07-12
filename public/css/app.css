@@ -1,0 +1,19 @@
+
+.nav-link.active {
+	background: #FFCD29;
+	border-radius: 12px;
+	padding: 1px;
+	margin-top: 7px;
+}
+
+.dropdown-item.active {
+	background: #FFCD29;
+}
+
+.dropdown-item:active {
+	background: #FFCD29;
+  }
+
+.nav-link {
+	font-weight: bold;
+}

@@ -1,0 +1,11 @@
+.nav .nav-link {
+	color: #333;
+}
+
+.nav .nav-link.active {
+	color: #007bff;
+}
+
+.nav {
+	min-height: 951px;
+}
